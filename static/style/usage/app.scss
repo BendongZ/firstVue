@@ -1,0 +1,9 @@
+@charset 'utf-8';
+@import './core/reset.scss';
+ul,li{
+    list-style: none;
+}
+input{
+  outline: none;
+  border: 0;
+}
